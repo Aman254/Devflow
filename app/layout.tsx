@@ -32,7 +32,7 @@ const RootLayout = async ({ children }: { children: ReactNode }) => {
         <body className={`${inter.className} antialiased`}>
           <ThemeProvider
             attribute="class"
-            defaultTheme="system"
+            defaultTheme="Light"
             enableSystem
             disableTransitionOnChange
           >
