@@ -20,6 +20,7 @@ export function getDeviconClassName(techName: string) {
     express: "devicon-express-original",
     nextjs: "devicon-nextjs-plain",
     nodejs: "devicon-nodejs-plain",
+    threejs: "devicon-threejs-original",
     bun: "devicon-bun-plain",
     deno: "devicon-denojs-original",
     python: "devicon-python-plain",
